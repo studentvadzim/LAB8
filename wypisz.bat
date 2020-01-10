@@ -1,0 +1,1 @@
+for %%I in (H:\Vshyshko\Desktop\*.*) do @echo %%I
