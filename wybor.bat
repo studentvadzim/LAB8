@@ -7,6 +7,7 @@ echo tekst
 goto EXIT
 :stop
 pause
+
 :clear
 cls
 :EXIT
